@@ -1,0 +1,35 @@
+.custom-navbar {
+    background-color: #f8f9fa; /* You can customize this color */
+  }
+  
+  .custom-navbar .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .custom-navbar .nav-link {
+    color: #000;
+  }
+  
+  .custom-navbar .nav-link:hover {
+    color: #0056b3;
+  }
+  .ml-auto{
+    padding-left: 40%;
+    font-size: 25px;
+  }
+  button{
+   
+    border: none;
+    margin: 8px;
+    padding: 0;
+    
+    background-color:#d3b636;
+  }
+  button:hover{
+    text-decoration:underline;
+    background-color: #96db1f;
+  }
+  img{
+    border-radius: 460%;
+    height: 50px;
+  }

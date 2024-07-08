@@ -1,0 +1,64 @@
+/* About.css */
+
+.about-page {
+  margin-top: 20px;
+}
+
+.about-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.about-page h2 {
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.about-page h3 {
+  font-size: 1.5rem;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.about-page p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.about-page ol {
+  margin-top: 10px;
+}
+
+.about-page pre {
+  background-color: #f8f9fa;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+.about-page code {
+  font-size: 1.1rem;
+}
+
+.about-page a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.about-page a:hover {
+  text-decoration: underline;
+}
+
+/* Animation classes */
+.animate__animated {
+  animation-duration: 1s;
+}
+
+.animate__bounceInDown {
+  animation-name: bounceInDown;
+}
+
+.animate__fadeIn {
+  animation-name: fadeIn;
+}

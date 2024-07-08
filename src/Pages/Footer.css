@@ -1,0 +1,24 @@
+/* Footer.css */
+
+.custom-footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  position: fixed; /* Fixed position at the bottom of the viewport */
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.custom-footer p {
+  margin: 0;
+}
+
+.custom-footer a {
+  color: #0056b3;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+.custom-footer a:hover {
+  text-decoration: underline;
+}

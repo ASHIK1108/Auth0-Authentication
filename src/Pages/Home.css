@@ -1,0 +1,81 @@
+/* Home.css */
+
+.home-page {
+    padding-top: 80px;
+    background-color: #f0f0f0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-section {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .hero-section p {
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  .skills-section {
+    margin-top: 50px;
+  }
+  
+  .skills-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .skills-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills-section li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-me {
+    margin-top: 20px;
+  }
+  
+  .about-me h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-me p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  /* Animation classes */
+  .animate__animated {
+    animation-duration: 1s;
+  }
+  
+  .animate__fadeInDown {
+    animation-name: fadeInDown;
+  }
+  
+  .animate__fadeIn {
+    animation-name: fadeIn;
+  }
+  
+  .animate__fadeInLeft {
+    animation-name: fadeInLeft;
+  }
+  
+  .animate__fadeInRight {
+    animation-name: fadeInRight;
+  }
+  
